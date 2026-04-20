@@ -1,0 +1,20 @@
+[
+    {
+     "question": "Who was the primary leader of the Reign of Terror",
+     "options":   ["Georges Danton", "Maximilien Robespierre", "Maria Antoinette", "King Louis XVI"],
+     "answer":  1
+    },
+
+    {
+     "question": "Who died on Jan 21 1793",
+     "options":   ["Georges Danton", "Maximilien Robespierre", "Maria Antoinette", "King Louis XVI"],
+     "answer":  3
+    },
+
+    {
+     "question": "When was the Storming of Bastile",
+     "options":   ["Sep 22 1792", "July 14 1789", "Jan 21 1793", "May 28 1791"],
+     "answer":  1
+    }
+]
+
